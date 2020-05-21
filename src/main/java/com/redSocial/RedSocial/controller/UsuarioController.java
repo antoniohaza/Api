@@ -1,4 +1,4 @@
-package com.redSocial.RedSocial.Controller;
+package com.redSocial.RedSocial.controller;
 
 import java.util.List;
 import java.util.Optional;
